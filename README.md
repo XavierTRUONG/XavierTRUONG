@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/xavier-truong" target="blank"><img align="center"
+  <a href="https://linkedin.com/in/xavier-truong" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Xavier TRUONG" height="30" width="40" /></a>
  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
