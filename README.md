@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xavier TRUONG</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Student at GEFOR, Paris🌟.</h3>
 
 <br>
 
